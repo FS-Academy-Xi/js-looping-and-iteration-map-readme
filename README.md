@@ -166,7 +166,7 @@ squaredNumbers;
 // => [1, 4, 9, 16, 25]
 ```
 
-## Demonstrate Using `map()` on Flatbook's Expanding Engineering Team
+## Demonstrate Using `map()` on Axibook's Expanding Engineering Team
 
 Let's use our `map()` function on a trickier data structure — a list of recently
 onboarded engineers. First off, we need to flip each new engineer's account from
